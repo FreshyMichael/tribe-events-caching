@@ -1,2 +1,2 @@
-<h2># Tribe Events Query Caching<h2><br>
+<h2># Tribe Events - Query Caching Helper<h2><br>
 <hr>
